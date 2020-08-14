@@ -57,12 +57,3 @@ I love getting feedback in either written or verbal form.
 I aim to work an 8:30 AM - 5PM schedule Pacific time. I normally start logging on around 8 AM, but function best when meetings are not at the immediate start of my day. I occasionally will time shift working hours to do things with my family, take a mental break, etc. When this occurs I let my team know the change of my schedule.
 
 When possible I prefer to avoid meetings in the morning as that is when I get my best work completed. This is aspirational and not a hard fast rule. Additionally, I have a recurring "Heads Down Tuesday" event every Tuesday. I prefer to keep Tuesdays as meeting free as possible so I can engage in deeper focus work. When possible I ask that this be respected for non critical or time sensitive meetings. However, I  recognize that is not always possible, especially when coordinating others' schedules.
-
-## My Questions for You
-
-If you are reading this, chances are we are working together on a project or will be. In order to kick start a productive working relationship, I would appreciate if you are able to answer these questions.
-
-- What are your preferred working hours?
-- What are your preferred communication methods?
-- How do you want to receive feedback?
-- Anything else I should know for us to work well together?
