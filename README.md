@@ -1,4 +1,4 @@
-# Hi, I'm Daniel
+# Hi, I'm Skyler
 
 The purpose of this living document is to encapsulate the various roles I normally play on teams, communication styles, and other areas to help us work effectively together. There are so many nuances to working with people, and I have tried to capture some of my personal nuances here.
 
