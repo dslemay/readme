@@ -2,7 +2,7 @@
 
 The purpose of this living document is to encapsulate the various roles I normally play on teams, communication styles, and other areas to help us work effectively together. There are so many nuances to working with people, and I have tried to capture some of mine here.
 
-## My Role as a Senior Developer and Technical Lead
+## My Role as a Staff Engineer and Technical Lead
 
 My goal is to help the team to succeed in reaching their goals. This includes unblocking team members, handling behind the scenes _glue_ work, and working directly with Engineering and Product Managers to assist with roadmap planning. These are some of the priorities I have for projects:
 
